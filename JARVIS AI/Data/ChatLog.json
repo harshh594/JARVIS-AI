@@ -1,0 +1,602 @@
+[
+    {
+        "role": "user",
+        "content": "What's your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Jarvis."
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks!"
+    },
+    {
+        "role": "user",
+        "content": "What's my age?"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have that information. You didn't provide your birthdate, so I can't calculate your age."
+    },
+    {
+        "role": "user",
+        "content": "What is the full form of bgmi?"
+    },
+    {
+        "role": "assistant",
+        "content": "The full form of BGMI is Battlegrounds Mobile India."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks!"
+    },
+    {
+        "role": "user",
+        "content": "What's the day today?"
+    },
+    {
+        "role": "assistant",
+        "content": "Today is Wednesday."
+    },
+    {
+        "role": "user",
+        "content": "Time right now."
+    },
+    {
+        "role": "assistant",
+        "content": "It's 22:51:01."
+    },
+    {
+        "role": "user",
+        "content": "What's my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Parth."
+    },
+    {
+        "role": "user",
+        "content": "What's your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Jarvis."
+    },
+    {
+        "role": "user",
+        "content": "What is the full form of lpu?"
+    },
+    {
+        "role": "assistant",
+        "content": "The full form of LPU is Lovely Professional University."
+    },
+    {
+        "role": "user",
+        "content": "What is 2 + 5?"
+    },
+    {
+        "role": "assistant",
+        "content": "2 + 5 is 7."
+    },
+    {
+        "role": "user",
+        "content": "What is 2 x 10?"
+    },
+    {
+        "role": "assistant",
+        "content": "2 x 10 is 20."
+    },
+    {
+        "role": "user",
+        "content": "What is 100 - 25?"
+    },
+    {
+        "role": "assistant",
+        "content": "100 - 25 is 75."
+    },
+    {
+        "role": "user",
+        "content": "What is the temperature right now?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the current weather information, the temperature right now in Ludhiana, Punjab, India is 105\u00b0F (Clouds and sun) with a RealFeel of 104\u00b0F, which is considered Very Hot."
+    },
+    {
+        "role": "user",
+        "content": "What's the day tomorrow?"
+    },
+    {
+        "role": "assistant",
+        "content": "Tomorrow is Thursday."
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks!"
+    },
+    {
+        "role": "user",
+        "content": "Today which match ipl?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the IPL schedule, today's match is between Chennai Super Kings (CSK) and Kolkata Knight Riders (KKR)."
+    },
+    {
+        "role": "user",
+        "content": "Who will win ipl today?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the predictions, it's difficult to say with certainty who will win today's IPL match between CSK and KKR. However, you can check out the match prediction and previews from various cricket experts and websites to get an idea of who might have an upper hand."
+    },
+    {
+        "role": "user",
+        "content": "What's my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Parth."
+    },
+    {
+        "role": "user",
+        "content": "What is 8 + 2?"
+    },
+    {
+        "role": "assistant",
+        "content": "8 + 2 is 10."
+    },
+    {
+        "role": "user",
+        "content": "What's the day today?"
+    },
+    {
+        "role": "assistant",
+        "content": "Today is Friday."
+    },
+    {
+        "role": "user",
+        "content": "What's the time right now?"
+    },
+    {
+        "role": "assistant",
+        "content": "It's 22:25:55."
+    },
+    {
+        "role": "user",
+        "content": "(in hindi) chat with me."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm happy to chat with you, but I'll respond in English as per our initial agreement. If you have any questions or topics you'd like to discuss, feel free to ask!"
+    },
+    {
+        "role": "user",
+        "content": "Don't tell me time in 24 hour clock."
+    },
+    {
+        "role": "assistant",
+        "content": "It's 10:25:55 PM."
+    },
+    {
+        "role": "user",
+        "content": "Okay."
+    },
+    {
+        "role": "assistant",
+        "content": "Is there anything else you'd like to talk about or ask?"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, Parth! It was nice chatting with you."
+    },
+    {
+        "role": "user",
+        "content": "Tell me a poem."
+    },
+    {
+        "role": "assistant",
+        "content": "Here's a short poem:\n\n\"The stars shine bright in the midnight sky,\nA canopy of twinkling lights, so high.\nThe world is hushed, in a peaceful sleep,\nAs the moon's soft glow, our souls do keep.\"\n\nI hope you enjoyed it!"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, Parth!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Kya puchega."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll respond in English as per our initial agreement. What would you like to ask or talk about?"
+    },
+    {
+        "role": "user",
+        "content": "What's your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Jarvis."
+    },
+    {
+        "role": "user",
+        "content": "What's the day today?"
+    },
+    {
+        "role": "assistant",
+        "content": "Today is Tuesday."
+    },
+    {
+        "role": "user",
+        "content": "Aur \u0915\u094d\u092f\u093e-\u0915\u094d\u092f\u093e lagega kaise banega."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll respond in English as per our initial agreement. It seems like you're asking about what's going to happen or how something will be made. Could you please clarify or provide more context about what you're referring to? I'll do my best to help."
+    },
+    {
+        "role": "user",
+        "content": "20 + 75."
+    },
+    {
+        "role": "assistant",
+        "content": "20 + 75 is 95."
+    },
+    {
+        "role": "user",
+        "content": "What is your type?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm an AI chatbot, specifically a conversational AI designed to understand and respond to human input in a natural and helpful way."
+    },
+    {
+        "role": "user",
+        "content": "You are very very."
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you for the compliment, Parth!"
+    },
+    {
+        "role": "user",
+        "content": "What is body count of mia khalifa?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, Mia Khalifa mentioned that she has a lower body count than any member of the IDF (Israel Defense Forces). However, I couldn't find an exact number mentioned in the search results."
+    },
+    {
+        "role": "user",
+        "content": "Who is johnny sins?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, Johnny Sins is an American adult film performer, director, and YouTuber. His real name is Steven Wolfe, and he was born on December 31, 1978."
+    },
+    {
+        "role": "user",
+        "content": "Software audio how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks!"
+    },
+    {
+        "role": "user",
+        "content": "Whatsapp whatsapp?"
+    },
+    {
+        "role": "assistant",
+        "content": "WhatsApp is a popular messaging app that allows users to send text messages, make voice and video calls, and share media with individuals or groups."
+    },
+    {
+        "role": "user",
+        "content": "who is elon mask"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a businessman known for his leadership of Tesla, SpaceX, and X (formerly Twitter)."
+    },
+    {
+        "role": "user",
+        "content": "Turn of light"
+    },
+    {
+        "role": "assistant",
+        "content": "\"Turn Off the Light\" is a song by Canadian singer-songwriter Nelly Furtado from her debut studio album, Whoa, Nelly! (2000)."
+    },
+    {
+        "role": "user",
+        "content": "& \"C:/Program Files/Python310/python.exe\" \"c:/Users/hp/Desktop/JARVIS AI/Main.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "This appears to be a command to run a Python script named \"Main.py\" located on the desktop of a user named \"hp\" using the Python executable located at \"C:/Program Files/Python310/python.exe\"."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Online."
+    },
+    {
+        "role": "assistant",
+        "content": "You're online!"
+    },
+    {
+        "role": "user",
+        "content": "Online."
+    },
+    {
+        "role": "assistant",
+        "content": "You're online!"
+    },
+    {
+        "role": "user",
+        "content": "& \"C:/Program Files/Python310/python.exe\" \"c:/Users/hp/Desktop/JARVIS AI/Backend/RealtimeSearchEngine.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "This appears to be a command to run a Python script named \"RealtimeSearchEngine.py\" located in the \"Backend\" folder on the desktop of a user named \"hp\" using the Python executable located at \"C:/Program Files/Python310/python.exe\"."
+    },
+    {
+        "role": "user",
+        "content": "& \"C:/Program Files/Python310/python.exe\" \"c:/Users/hp/Desktop/JARVIS AI/Main.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "This appears to be a command to run a Python script named \"Main.py\" located on the desktop of a user named \"hp\" using the Python executable located at \"C:/Program Files/Python310/python.exe\"."
+    },
+    {
+        "role": "user",
+        "content": "Pahle main ran karun."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll respond in English as per our initial agreement. It seems like you're saying \"Run the main first.\" Is that correct?"
+    },
+    {
+        "role": "user",
+        "content": "Achcha."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll respond in English as per our initial agreement. It seems like you're saying \"Okay\" or \"Alright\". Is that correct?"
+    },
+    {
+        "role": "user",
+        "content": "Online."
+    },
+    {
+        "role": "assistant",
+        "content": "You're online!"
+    },
+    {
+        "role": "user",
+        "content": "Online."
+    },
+    {
+        "role": "assistant",
+        "content": "You're online!"
+    },
+    {
+        "role": "user",
+        "content": "Light."
+    },
+    {
+        "role": "assistant",
+        "content": "The light!"
+    },
+    {
+        "role": "user",
+        "content": "Theek theek."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll respond in English as per our initial agreement. It seems like you're saying \"Okay, okay\" or \"Alright, alright\". Is that correct?"
+    },
+    {
+        "role": "user",
+        "content": "Flight."
+    },
+    {
+        "role": "assistant",
+        "content": "A flight!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks!"
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks!"
+    },
+    {
+        "role": "user",
+        "content": "What is the full form of lpu?"
+    },
+    {
+        "role": "assistant",
+        "content": "The full form of LPU is Lovely Professional University."
+    },
+    {
+        "role": "user",
+        "content": "What is 22 + 15?"
+    },
+    {
+        "role": "assistant",
+        "content": "22 + 15 is 37."
+    },
+    {
+        "role": "user",
+        "content": "What's the day today?"
+    },
+    {
+        "role": "assistant",
+        "content": "Today is Monday."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "What is java and who is invited in java?"
+    },
+    {
+        "role": "assistant",
+        "content": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is intended to let application developers \"write once, run anywhere\" (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.\n\nJava was created by James Gosling, Mike Sheridan, and Patrick Naughton at Sun Microsystems (now owned by Oracle Corporation)."
+    },
+    {
+        "role": "user",
+        "content": "Online."
+    },
+    {
+        "role": "assistant",
+        "content": "You're online!"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, Parth!"
+    },
+    {
+        "role": "user",
+        "content": "Han to modi idea lag raha hai tere ko kam karega."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll respond in English as per our initial agreement. It seems like you're saying that someone (perhaps Narendra Modi) has an idea that will make me work. Is that correct?"
+    },
+    {
+        "role": "user",
+        "content": "Jila mein padta hai."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll respond in English as per our initial agreement. It seems like you're saying that someone studies in a district or a locality. Is that correct?"
+    },
+    {
+        "role": "user",
+        "content": "Main soch."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll respond in English as per our initial agreement. It seems like you're saying \"I am thinking\". Is that correct?"
+    },
+    {
+        "role": "user",
+        "content": "Madam."
+    },
+    {
+        "role": "assistant",
+        "content": "A respectful greeting!"
+    },
+    {
+        "role": "user",
+        "content": "Online."
+    },
+    {
+        "role": "assistant",
+        "content": "You're online!"
+    },
+    {
+        "role": "user",
+        "content": "Are dost chalu kar deta hai."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll respond in English as per our initial agreement. It seems like you're saying that two friends are making something happen or starting something together. Is that correct?"
+    },
+    {
+        "role": "user",
+        "content": "Online."
+    },
+    {
+        "role": "assistant",
+        "content": "You're online!"
+    },
+    {
+        "role": "user",
+        "content": "220."
+    },
+    {
+        "role": "assistant",
+        "content": "The number 220!"
+    },
+    {
+        "role": "user",
+        "content": "Arduin."
+    },
+    {
+        "role": "assistant",
+        "content": "Arduino!"
+    }
+]
